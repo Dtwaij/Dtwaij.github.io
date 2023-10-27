@@ -1,3 +1,3 @@
-# About
+title: "About"
 
 To add stuff
