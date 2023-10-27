@@ -1,3 +1,1 @@
-## About
-
 To add stuff
