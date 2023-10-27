@@ -1,16 +1,14 @@
 remote_theme: benbalter/retlab
 
 title: DTwaij
-description: To add
+# description: To add # this appears to the right side of the nav bar
 
 lang: en-US
 
 # Pages to include in header navigation
 nav_pages:
-  - index.html
   - papers.md
   - about.md
-#  - contact.md
 
 # Pages to include in footer navigation
 #footer_pages:
