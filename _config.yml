@@ -7,7 +7,6 @@ lang: en-US
 
 # Pages to include in header navigation
 nav_pages:
-  - README.md
   - papers.md
   - about.md
 
